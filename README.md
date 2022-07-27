@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-I am a manufacturing fresher at bits pilani, India.I like to make flutter applications and fascinate myself to newest technology when I'm not found of gyming or watching anime.Always looking for new projects to collab on.
+I am a sophomore at BITS PILANI pursuing manufacturing engineering. I like to make flutter applications and fascinate myself to newest technology when I'm not gyming or watching anime. I'm always looking for new projects to collab on✌🏻.
 
 
-- 🌱  currently i am learning Node.js. 
+- 🌱  currently I am learning Node.js. 
 
 - 👯   I m looking for internship as app dev intern.
 
