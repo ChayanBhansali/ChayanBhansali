@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a sophomore at BITS PILANI pursuing manufacturing engineering. I like to make flutter applications and fascinate myself to newest technology when I'm not gyming or watching anime. I'm always looking for new projects to collab on✌🏻.
+I am a junior at BITS PILANI pursuing manufacturing engineering. I like to make flutter applications and fascinate myself to newest technology when I'm not gyming or watching anime. I'm always looking for new projects to collab on✌🏻.
 
 
 - 🌱  Currently I am learning Data-Science. 
