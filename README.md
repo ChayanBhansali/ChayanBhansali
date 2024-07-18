@@ -14,7 +14,7 @@ I'm currently pursuing a Bachelor's of Engineering in Manufacturing from BITS Pi
 ## 📝Certifications
 
 * **Machine Learning Basics**: Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024] taught by Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Ligency Team on Udemy. 
-* **Structuring Machine Learning Projects:** learned how to build a successful machine learning project from ground zero to production level.
+* **Structuring Machine Learning Projects:** Learned how to build a successful machine learning project from ground zero to production level.
 
 
 ## 📘 What I'm Focused On
