@@ -1,17 +1,31 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chayan Bhansali
+=======================================================================================================================================
+I'm currently pursuing a Bachelor's of Engineering in Manufacturing from BITS Pilani. Passionate about technology, I am always eager to learn new things and expand my horizons.
+* I also love to write articles. Check out my blog on [Medium](https://medium.com/@bhansalichayan)
 
 
-I am a junior at BITS PILANI pursuing manufacturing engineering. I like to make flutter applications and fascinate myself to newest technology when I'm not gyming or watching anime. I'm always looking for new projects to collab on✌🏻.
+
+### AI Research Intern at Siemens Technology (May 2024 - Present)
+
+* **Exploring Traditional and Advanced Time Series Methods**: Implementing traditional methods like ARIMA and exponential smoothing, and advancing to RNNs, LSTMs, and attention-based models.
+
+* **Problem Solver**: Armed with deep learning expertise, I tackle intricate challenges head-on, unraveling complexities and streamlining simulations with precision and finesse.
+
+## 📝Certifications
+
+* **Machine Learning Basics**: Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024] taught by Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Ligency Team on Udemy. 
+* **Structuring Machine Learning Projects:** learned how to build a successful machine learning project from ground zero to production level.
 
 
-- 🌱  Currently I am learning Data-Science. 
+## 📘 What I'm Focused On
 
-- 👯   I'm looking for Internship as Data Scientist.
+Currently, I'm honing my problem-solving skills by working through challenges on Leetcode, with a particular focus on Data Structures and Algorithms (DSA).
 
-- 📫   How to reach me: [E-Mail](mailto:bhansalichayan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chayan-bhansali-0501b6234/) 
+## 📈 GitHub Stats
 
-- ⚡  Fun fact: 
-     - I have contributed in development of stock market simulator app, flagship event of coding club for apogee        2022 BITS PILANI.  
-     - Member of Association of computing machinery, BITS PILANI.
-     - Executive member of Manufacturing association of BITS PILANI.
+![Chayan's Contribution Chart](https://ghchart.rshah.org/ChayanBhansali)
 
+## 📬 Get in Touch
+
+- Email: [chayanbhansaliwork@gmail.com](mailto:chayanbhansaliwork@gmail.com)
+- LinkedIn: [Chayan Bhansali](www.linkedin.com/in/cbhansali)
