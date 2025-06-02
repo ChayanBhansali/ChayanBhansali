@@ -28,4 +28,5 @@ Currently, I'm honing my problem-solving skills by working through challenges on
 ## 📬 Get in Touch
 
 - Email: [chayanbhansaliwork@gmail.com](mailto:chayanbhansaliwork@gmail.com)
-- LinkedIn: [Chayan Bhansali](www.linkedin.com/in/cbhansali)
+- LinkedIn: [Chayan Bhansali](https://www.linkedin.com/in/cbhansali)
+
