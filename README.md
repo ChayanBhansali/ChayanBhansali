@@ -5,7 +5,7 @@ I'm currently pursuing a Bachelor's of Engineering in Manufacturing from BITS Pi
 
 
 
-### AI Research Intern at Siemens Technology (May 2024 - Present)
+### AI Research Intern at Siemens Technology (May 2024 - December 2024)
 
 * **Exploring Traditional and Advanced Time Series Methods**: Implementing traditional methods like ARIMA and exponential smoothing, and advancing to RNNs, LSTMs, and attention-based models.
 
